@@ -1,0 +1,16 @@
+bin/
+data/
+db/
+dist/
+logs/
+test-result/
+lib/
+tmp/
+target/
+modules/
+eclipse/
+.classpath
+.project
+.settings/
+.svn/
+*/.svn/
